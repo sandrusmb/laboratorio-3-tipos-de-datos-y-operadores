@@ -2,13 +2,13 @@
 
 Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
 
-Cómo compilar el repositorio:
+**Cómo compilar el repositorio:**
 
 - Clona el proyecto
 - Instala `npm install`
 - Ejecuta `npm run dev`
 
-Ejercicio:
+**Ejercicio:**
 
 Tienes un grupo de 6 amigos y quieres invitarlos a cenar por tu cumpleaños.
 
@@ -17,7 +17,7 @@ Tienes un ticket de cena que cuesta 120 € y en el que ya se incluyen las bebid
 Calcula cuánto tendría que pagar cada comensal para dividir los costos de manera equitativa.
 Utiliza JavaScript/Typescript para hacer el cálculo y mostrar el resultado por consola.
 
-Observaciones:
+**Observaciones:**
 
 - Cuento con 6 amigos más yo que soy la cumpleañera, es decir 7 comensales.
 - Como cumpleañera pago mi cena y además invito a las bebidas.
