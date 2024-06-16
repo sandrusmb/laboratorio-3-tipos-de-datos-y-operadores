@@ -1,4 +1,4 @@
-# Laboratorio 3 - Tipos de fatos y operadores de Javascript
+# Laboratorio 3 - Tipos de datos y operadores de Javascript
 
 Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
 
